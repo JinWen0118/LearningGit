@@ -1,2 +1,2 @@
 # LearningGit
-This repo is for software construction and configuration practical.
+This repo is for UECS2363 Software Construction and Configuration practical.
